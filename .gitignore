@@ -1,3 +1,5 @@
+.DS_Store
 ui
-payoo-resources/payoo-MFS.fig
-payoo-resources/readme.md
+/payoo-MFS.fig
+/readme.md
+
